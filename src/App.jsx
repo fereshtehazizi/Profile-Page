@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="page">
-      <ProfilePage user={user}></ProfilePage>
+      <ProfilePage user={user} />
     </div>
   );
 }
